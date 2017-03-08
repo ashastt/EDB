@@ -17,4 +17,4 @@ connection.connect(function(err) {
 
 });
 
-app.listen(port);
+module.exports = connection;
