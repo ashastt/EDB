@@ -10,7 +10,13 @@ body{
 	width: 900px;
 	height: 100px;
 	color: #ffffff;
+}
+
+#headerDiv h1{
 	font-weight: bold;
+	font-size: 46px;
+}
+
 }
 
 #addDiv{
@@ -18,6 +24,10 @@ body{
 	height: 100px;
 	color: #ffffff;
 	font-weight: bold;
+}
+
+#addDiv label{
+	color: #ffffff;
 }
 
 #inputBox{
